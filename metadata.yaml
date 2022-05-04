@@ -1,0 +1,54 @@
+_repo: The-Bridal-Wreath_67929
+_version: 0.0.1
+alternative_title: Kransen. English
+contributor:
+  translators:
+  - agent_name: Scott, J. S. (Translator)
+    gutenberg_agent_id: '54538'
+    url: http://www.gutenberg.org/2009/agents/54538
+  - agent_name: Archer, Charles
+    alias: Archer, C.
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '4543'
+    url: http://www.gutenberg.org/2009/agents/4543
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Archer
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Svarstad, Sigrid Undset
+    - Unset, Sigrid
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sigrid_Undset
+    - https://fi.wikipedia.org/wiki/Sigrid_Undset
+    - https://no.wikipedia.org/wiki/Sigrid_Undset
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67929'
+  lccn: '23008081'
+language: en
+pgterms:marc904: https://archive.org/details/bridalwreath00unds_0/page/n7
+pgterms:marc905: 20190114070150undset
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Grosset & Dunlap,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Women -- Norway -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Bridal Wreath
+url: http://www.gutenberg.org/ebooks/67929

@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4543'
     url: http://www.gutenberg.org/2009/agents/4543
     wikipedia: https://en.wikipedia.org/wiki/Charles_Archer
+covers:
+- cover_type: archival
+  image_path: 67929-h/images/cover.jpg
 creator:
   author:
     agent_name: Undset, Sigrid
@@ -28,6 +31,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Sigrid_Undset
     - https://no.wikipedia.org/wiki/Sigrid_Undset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67929#The-Bridal-Wreath
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67929'
